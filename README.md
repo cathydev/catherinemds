@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=150&section=header&text=👋%20Hi%20There&fontSize=45&animation=fadeIn&fontAlign=20&fontAlignY=40)
-- :shipit: My name is Catherine 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=150&section=header&text=👋%20Hi%20there!&fontSize=45&animation=fadeIn&fontAlign=20&fontAlignY=40)
+- :shipit: My name is Catherine Mejías
 - :computer: I'm a Frontend Web Developer
 - :heart: I’m looking to collaborate on open source projects
 
@@ -20,7 +20,5 @@
 ### Connect with me
 
 <a href="https://www.linkedin.com/in/catherine-mej%C3%ADas"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/catherinemds"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt="Twitter" /></a>&nbsp;
-<a href="https://codepen.io/catherinemds/"><img src="https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=Codepen&logoColor=white" target="_blank" alt="Codepen" /></a>&nbsp;
 
 [![Github](https://img.shields.io/github/followers/catherinemds?label=Follow&style=social)](https://github.com/catherinemds)
