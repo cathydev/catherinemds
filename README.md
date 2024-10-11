@@ -19,6 +19,6 @@
 
 ### Connect with me
 
-<a href="https://www.linkedin.com/in/catherine-mej%C3%ADas"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/catherine-mejias/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn" /></a>&nbsp;
 
-[![Github](https://img.shields.io/github/followers/catherinemds?label=Follow&style=social)](https://github.com/catherinemds)
+[![Github](https://img.shields.io/github/followers/cathydev?label=Follow&style=social)](https://github.com/cathydev)
